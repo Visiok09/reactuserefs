@@ -16,7 +16,6 @@ This is a simple React form component that allows users to enter their card and 
 
 ## Dependencies
 
-- React: [version]
-- [Other dependencies, if applicable]
+
 
 Feel free to explore and integrate this form component into your own projects. If you have any questions or suggestions, please open an issue or submit a pull request. Enjoy!
